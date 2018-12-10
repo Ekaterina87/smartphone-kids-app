@@ -1,0 +1,27 @@
+.header{
+background-color: green;
+color:white;
+width: 98%;
+height:3.2em;
+font-size: 2em;
+text-align: center;
+padding-top: 0.4em;
+}
+img{
+  width:100%;
+  heigh:100%;
+}
+.footer {
+font-size: 1.7em;
+}
+
+button {
+background-color: black;
+color:green;
+padding: 3px;
+text-align: center;
+display: inline-block;
+margin: 1px;
+width: 31%;
+height: 4em;
+}
